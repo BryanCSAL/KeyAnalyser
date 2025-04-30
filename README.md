@@ -1,0 +1,1 @@
+Este projeto busca melhorar o entendimento de alguns conceitos, como a identificação de periféricos (no caso, o teclado), juntamente com o uso de threads. A princípio, foi descontinuado, mas, ao adquirir os conhecimentos necessários, irei finalizá-lo
